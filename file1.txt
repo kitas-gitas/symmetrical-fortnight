@@ -1,5 +1,8 @@
 kodas
 bugfix
+kazkas
+dar kazkas
+svarbus pakeitimas
 
 
 
