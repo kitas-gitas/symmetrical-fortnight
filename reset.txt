@@ -1,2 +1,4 @@
 reset 1
 reset 2
+pakeitimas
+pakeitimas
